@@ -34,10 +34,11 @@ div.well{
     padding: 40px;
 }
 
-#logo-container{
+#logo-container{  /*     Hay que cuadrar las dimensiones de éste logo
+*/
     margin: auto;
     margin-bottom: 10px;
     width:200px;
     height:30px;
-    background-image:url('http://placehold.it/200x30/000000/ffffff/&text=BRAND+LOGO');
+    background-image:url('http://www.gram.edu/offices/infotech/images/helpdesk_headset.png');
 }
