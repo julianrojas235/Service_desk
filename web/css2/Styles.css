@@ -1,0 +1,21 @@
+/*     Created on : 4/09/2018, 11:30:33 AM
+    Author     : LeSkem
+*/
+
+.login{
+
+    margin-top: 20px;           
+
+}
+.formulaario{
+
+    background-color: #34679E;
+}
+
+.img-fondo{
+    background: url("fondo.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color: #fff; 
+}
